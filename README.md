@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anthonysingiser
+- 👀 I’m interested in web/application development. In general I'm trying to make fun, funny or interesting things to make things better for people.
+- 🌱 I’m currently learning a lot, I completed some courses over the past year on Javascript, JSX/React, and right now I'm learning how Git and Github work. 
+- 💞️ I’m looking to collaborate on any project that I think is fun, funny or interesting. I like laughing (smiling is my favorite) and I love people. 
+- 📫 How to reach me: asingiser@gmail.com
