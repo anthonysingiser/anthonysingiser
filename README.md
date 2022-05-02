@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @anthonysingiser
-- 👀 I’m interested in web/application development. In general I like to make fun and/or interesting things to make things better for people.
-- 🌱 I have completed courses over the past year on Javascript, JSX/React, Git and Unix. 
-- 💞️ I’m looking to collaborate on any project that I think is fun, funny or interesting. I like laughing (smiling is my favorite) and I love people. 
+- 👀 I’m currently applying and interviewing a whole heck of a lot.
+- 🎯 I am learning something new every day and I love it.
+- 🌱 I have completed courses in Javascript, Python, SQL, JSX/React, and Git. 
+- 💞️ I’m looking for an entry-level position as a software engineer || web developer || jobsAtYourCompany.indexOf['good ass job']
 - 📫 How to reach me: asingiser@gmail.com
