@@ -2,5 +2,5 @@
 - 👀 I’m currently applying and interviewing a whole heck of a lot.
 - 🎯 I am learning something new every day and I love it.
 - 🌱 I have completed courses in Javascript, Python, SQL, JSX/React, and Git. 
-- 💞️ I’m looking for an entry-level position as a software engineer || web developer || jobsAtYourCompany.indexOf['good ass job']
+- 💞️ I’m looking for an entry-level position as a software engineer || web developer || jobsAtYourCompany['good ass job']
 - 📫 How to reach me: asingiser@gmail.com
